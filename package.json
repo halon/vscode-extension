@@ -142,7 +142,7 @@
     "redhat.vscode-yaml"
   ],
   "devDependencies": {
-    "@halon/hsl-docs": "github:halon/hsl-docs",
+    "@halon/hsl-docs": "github:halon/hsl-docs#5.4-stable",
     "@types/fs-readdir-recursive": "^1.0.0",
     "@types/node": "^14.0.14",
     "@types/path-is-inside": "^1.0.0",
@@ -153,8 +153,8 @@
     "vsce": "^1.77.0"
   },
   "dependencies": {
-    "@halon/json-schemas": "github:halon/json-schemas",
-    "@halon/protobuf-schemas": "github:halon/hsl-docs",
+    "@halon/json-schemas": "github:halon/json-schemas#5.4-stable",
+    "@halon/protobuf-schemas": "github:halon/hsl-docs#5.4-stable",
     "ajv": "^6.10.2",
     "is-utf8": "^0.2.1",
     "path-is-inside": "^1.0.2",
