@@ -154,7 +154,7 @@
   },
   "dependencies": {
     "@halon/json-schemas": "github:halon/json-schemas#5.4-stable",
-    "@halon/protobuf-schemas": "github:halon/hsl-docs#5.4-stable",
+    "@halon/protobuf-schemas": "github:halon/protobuf-schemas#5.4-stable",
     "ajv": "^6.10.2",
     "is-utf8": "^0.2.1",
     "path-is-inside": "^1.0.2",
